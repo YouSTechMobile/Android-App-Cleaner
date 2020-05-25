@@ -1,6 +1,6 @@
 # Android-App-Cleaner
 Phone Booster, Memory Cleaner, Optimizer and Reclaim Storage Space.
-[Download](https://github.com/yotami-studio/GameElf-Cleaner/raw/master/GameElf%20Cleaner.apk)  
+[Download](https://github.com/YouSTechMobile/Android-App-Cleaner/blob/master/app-release.apk)  
 ## Update
 The makers of the world’s most popular PC and Mac cleaning software bring you CCleaner for Android.
 Remove junk, reclaim space, monitor your system and browse safely. Become the master of your own device with the ultimate cleaning app for your Android!
@@ -39,7 +39,7 @@ Monitor your System<br>
 ● Check out your battery levels and temperature<br>
 
 ## Picture
-[Download](https://github.com/yotami-studio/GameElf-Cleaner/raw/master/GameElf%20Cleaner.apk)
+[Download](https://github.com/YouSTechMobile/Android-App-Cleaner/blob/master/app-release.apk)
 
 ## Open source projects
 * [ButterKnife](http://jakewharton.github.io/butterknife/)  
